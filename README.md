@@ -75,8 +75,5 @@ Without a key the app still predicts churn; only the AI report is disabled. Neve
 ## Tech stack
 Python · pandas · NumPy · scikit-learn · XGBoost · Matplotlib · Seaborn · Streamlit · Google Gemini API (`google-genai`)
 
-## Author
-**Divya Patel** — B.Tech CSBS (2027) · [GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
-
 ## License
 MIT
