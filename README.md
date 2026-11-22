@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts whether a telecom customer will leave, and uses **Google Gemini** to turn the prediction into a plain-English retention report. Built with Python, scikit-learn, XGBoost and Streamlit.
 
-🔗 **Live demo:** _add your Streamlit Cloud link here_
+🔗 **Live demo:**https://churn-predictor15.streamlit.app
 
 ## Problem
 Acquiring a new customer costs far more than keeping an existing one. If a telecom company can spot customers likely to leave, it can act (discounts, contract offers, support) before they go.
