@@ -55,7 +55,7 @@ All three models perform very similarly (~79–80% accuracy, ROC-AUC ≈ 0.83). 
 
 **2. Run the app locally**
 ```bash
-git clone https://github.com/<your-username>/churn-prediction.git
+git clone https://github.com/Divyapatel-15/churn-prediction.git
 cd churn-prediction
 pip install -r requirements.txt
 streamlit run app.py
